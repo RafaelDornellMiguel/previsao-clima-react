@@ -23,3 +23,6 @@ O **Vixus Tech - Previsão do Tempo** é uma aplicação web construída com **R
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/RafaelDornellMiguel/previsao-clima-react.git
+
+![image](https://github.com/user-attachments/assets/4bcbf8ef-c068-4475-93e7-94be72958131)
+
